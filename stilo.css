@@ -1,0 +1,37 @@
+@media (max-width: 600px){
+    *{
+        background: white;
+        color: white;
+    }
+    #ErMs{
+        color: black;
+        background: wheat;
+    }
+}
+
+
+#container{
+    display: block;
+    height: 3rem;
+    background: green;
+    border-radius: 3rem;
+    padding: 1rem;
+    text-align: center;
+}
+i{
+    width: 5rem;
+}
+.pedidos{
+    color: black;
+}
+li{
+    background: #003B04;
+    color: white;
+    width: 6rem;
+    border-radius: 1rem;
+    height: 25px;
+    padding: 5px;
+}
+#ErMs{
+    color: white;
+}
